@@ -1,0 +1,17 @@
+{
+  "name": "your-server-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0",
+    "mongoose": "^6.12.8",
+    "nodemon": "^2.0.15",
+    "react-router-dom": "^6.23.0",
+    "react-toastify": "^10.0.5"
+  }
+}
